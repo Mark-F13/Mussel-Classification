@@ -1,5 +1,3 @@
-# Mussel-Classification
-
 # Philippine Mussel Classification using MobileNetV3
 
 ## Overview
