@@ -1,6 +1,6 @@
 # Mussel-Classification
 
-# Philippine Mussel Classification using MobileNetV3 (Edge AI)
+# Philippine Mussel Classification using MobileNetV3
 
 ## Overview
 This project is a real-time image classification system designed to identify three Philippine mussel species using a Raspberry Pi 4.
